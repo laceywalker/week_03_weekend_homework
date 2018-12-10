@@ -19,6 +19,9 @@ customer1.save
 customer2.save
 customer3.save
 
+# customer1.name = "Bobby Time"
+# customer1.update
+
 
 film1 = Film.new('title' => 'Grapes of Wrath', 'price' => '1')
 film2 = Film.new('title' => 'Fantasia', 'price' => '2')
